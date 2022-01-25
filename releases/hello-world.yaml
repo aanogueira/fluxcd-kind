@@ -17,4 +17,4 @@ spec:
   values:
     image:
       repository: aanogueira/hello-world # {"$imagepolicy": "flux-system:hello-world:name"}
-      tag: 0.0.1 # {"$imagepolicy": "flux-system:hello-world:tag"}
+      tag: 0.0.4 # {"$imagepolicy": "flux-system:hello-world:tag"}
